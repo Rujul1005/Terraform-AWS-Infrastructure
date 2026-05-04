@@ -78,10 +78,10 @@ terraform apply
 terraform destroy
 ```
 
-## ⚠️ Note
-Ensure AWS credentials are configured properly.
-S3 bucket names must be globally unique.
-Always run terraform destroy to avoid unwanted charges.
+## ⚠️ Note  
+- Ensure AWS credentials are properly configured before running Terraform  
+- S3 bucket names must be globally unique across all AWS accounts  
+- Always run `terraform destroy` after testing to avoid unnecessary charges  
 
 ---
 
