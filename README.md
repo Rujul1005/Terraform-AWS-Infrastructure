@@ -1,4 +1,4 @@
-# ☁️ Infrastructure as Code using Terraform on AWS
+# 🌐 Infrastructure as Code using Terraform on AWS
 
 ## 🚀 Project Overview  
 This project demonstrates how to provision and manage cloud infrastructure on AWS using Terraform.
@@ -33,10 +33,9 @@ Infrastructure is written in Terraform configuration files and executed using Te
 ---
 
 ## 📸 Screenshots  
-<!-- Add your screenshots here -->
-<img width="1920" height="1030" alt="1" src="YOUR_IMAGE_LINK_HERE" />
-<img width="1920" height="1030" alt="2" src="YOUR_IMAGE_LINK_HERE" />
-<img width="1920" height="1030" alt="3" src="YOUR_IMAGE_LINK_HERE" />
+<img width="908" height="1015" alt="1" src="https://github.com/user-attachments/assets/22458caa-e499-4d5b-b117-3402665e47de" />
+<img width="1920" height="1025" alt="2" src="https://github.com/user-attachments/assets/05c76074-d377-4857-ad46-6642997af31d" />
+<img width="1920" height="1025" alt="3" src="https://github.com/user-attachments/assets/346b8fdc-edbc-4230-8140-421c642c2c8f" />
 
 ---
 
